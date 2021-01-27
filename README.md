@@ -1,4 +1,5 @@
-<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/art.gif" class="responsive"/>
+<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/pacman.gif" class="responsive"/>
+<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/pacman_description.gif" class="responsive"/>
 
 <h3>MY STATS 👾</h3>
 <a><img width="432" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alisonquinter17&show_icons=true&theme=tokyonight" class="responsive" />
