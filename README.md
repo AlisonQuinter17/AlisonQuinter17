@@ -1,5 +1,5 @@
-<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/mario.gif" class="responsive"/>
-<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/mario_description.gif" class="responsive"/>
+<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/cat.gif" class="responsive"/>
+<img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/cat_description.gif" class="responsive"/>
 
 <h3>MY STATS 👾</h3>
 <a><img width="432" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alisonquinter17&show_icons=true&theme=tokyonight" class="responsive" />
