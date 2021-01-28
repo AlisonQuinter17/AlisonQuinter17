@@ -1,8 +1,8 @@
 <img src="https://github.com/AlisonQuinter17/AlisonQuinter17/blob/master/multimedia/yasss.gif" class="responsive"/>
 
 <h3>MY STATS 👾</h3>
-<a><img width="432" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alisonquinter17&show_icons=true&theme=tokyonight" class="responsive" />
-</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonquinter17&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>  
+<a><img width="432" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alisonquinter17&show_icons=true&theme=gotham" class="responsive" />
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonquinter17&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
 <h3 align="center">CONTACT ME 🤙</h3>
 <p align="center">
     <!-- linkedin -->
